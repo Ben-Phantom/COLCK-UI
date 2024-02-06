@@ -1,20 +1,21 @@
-* {
+/* * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
+} */
 
 body {
+    background:
     /* font-family: var(--body-font); */
 
     /* color: var(--text-color); */
-    background:url(./source_img/a.jpg) 0 0 no-repeat scroll transparent;
+    #eee 50% -50% url('../source_img/a - 副本.jpg');
 }
 
-img {
+/* img {
     min-width: 100%;
     min-height: 100%;
-}
+} */
 
 .wrapper {
     width: 600px;
